@@ -1,3 +1,8 @@
+[![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react&logoColor=white)](https://reactjs.org/) 
+[![Node.js](https://img.shields.io/badge/Node.js-18.0-green?logo=node.js&logoColor=white)](https://nodejs.org/) 
+[![MongoDB](https://img.shields.io/badge/MongoDB-5.0.15-brightgreen?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+
 # React Auth App
 
 A modern **React authentication application** with Signup and Login functionality, built using **MongoDB**, **Express**, and **Axios**.  
@@ -44,7 +49,7 @@ node index.js
 ```bash
 npm run dev
 ```
-5.**Open in browser**
+5. **Open in browser**
 ```bash
 http://localhost:5173/
 ```
